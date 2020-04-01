@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hare/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Hare/static/js/main.8fbcb987.chunk.js",
+    "main.js.map": "/Hare/static/js/main.8fbcb987.chunk.js.map",
+    "runtime-main.js": "/Hare/static/js/runtime-main.68fe9930.js",
+    "runtime-main.js.map": "/Hare/static/js/runtime-main.68fe9930.js.map",
+    "static/js/2.768ccb81.chunk.js": "/Hare/static/js/2.768ccb81.chunk.js",
+    "static/js/2.768ccb81.chunk.js.map": "/Hare/static/js/2.768ccb81.chunk.js.map",
+    "index.html": "/Hare/index.html",
+    "precache-manifest.12d09c5476f9c71a5b458da8607d9b82.js": "/Hare/precache-manifest.12d09c5476f9c71a5b458da8607d9b82.js",
+    "service-worker.js": "/Hare/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Hare/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.768ccb81.chunk.js.LICENSE.txt": "/Hare/static/js/2.768ccb81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68fe9930.js",
+    "static/js/2.768ccb81.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8fbcb987.chunk.js"
+  ]
+}
