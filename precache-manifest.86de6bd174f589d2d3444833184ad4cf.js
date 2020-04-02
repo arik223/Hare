@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e3c2e95032c26c84b4c797669d39d63",
+    "revision": "fa18a93eb17d4c60557358ce5ed8c6e0",
     "url": "/Hare/index.html"
   },
   {
-    "revision": "1034bae1de84e47012c5",
+    "revision": "ed1303b9c82ac24601d0",
     "url": "/Hare/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Hare/static/js/2.f5032ee9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1034bae1de84e47012c5",
-    "url": "/Hare/static/js/main.9f43eaa7.chunk.js"
+    "revision": "ed1303b9c82ac24601d0",
+    "url": "/Hare/static/js/main.bef9bb9b.chunk.js"
   },
   {
     "revision": "fe5d6438d895bce4cad5",

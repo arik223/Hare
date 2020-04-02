@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Hare/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Hare/static/js/main.9f43eaa7.chunk.js",
-    "main.js.map": "/Hare/static/js/main.9f43eaa7.chunk.js.map",
+    "main.js": "/Hare/static/js/main.bef9bb9b.chunk.js",
+    "main.js.map": "/Hare/static/js/main.bef9bb9b.chunk.js.map",
     "runtime-main.js": "/Hare/static/js/runtime-main.68fe9930.js",
     "runtime-main.js.map": "/Hare/static/js/runtime-main.68fe9930.js.map",
     "static/js/2.f5032ee9.chunk.js": "/Hare/static/js/2.f5032ee9.chunk.js",
     "static/js/2.f5032ee9.chunk.js.map": "/Hare/static/js/2.f5032ee9.chunk.js.map",
     "index.html": "/Hare/index.html",
-    "precache-manifest.72b5e432f8a856166995af44a7b414be.js": "/Hare/precache-manifest.72b5e432f8a856166995af44a7b414be.js",
+    "precache-manifest.86de6bd174f589d2d3444833184ad4cf.js": "/Hare/precache-manifest.86de6bd174f589d2d3444833184ad4cf.js",
     "service-worker.js": "/Hare/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/Hare/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.f5032ee9.chunk.js.LICENSE.txt": "/Hare/static/js/2.f5032ee9.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.68fe9930.js",
     "static/js/2.f5032ee9.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.9f43eaa7.chunk.js"
+    "static/js/main.bef9bb9b.chunk.js"
   ]
 }
