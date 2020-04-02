@@ -1,0 +1,90 @@
+
+.navigation {
+    width: 100%;
+    background-color: black;
+    overflow: auto;
+
+    position: fixed;
+    height: 5%;
+
+    padding-top: 10px;
+
+
+    /* list-style: none;
+    background-color: #444;
+    text-align: center;
+    padding: 0;
+    margin: 0; */
+    
+    /* width: 100%;
+    background-color: #555;
+    overflow: auto;
+
+    background-color: black;
+    height: 10%;
+    position: fixed; */
+
+
+    /* top: 0; */
+    /* width: 100%; */
+    /* overflow: hidden; */
+    /* margin: 0 auto; */
+
+    /* text-align: justify; */
+}
+/* 
+.navigation:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+} */
+
+.navigation .nav-item{
+    display: inline-block;
+    width: 20%;
+    height: 100%;
+    /* float: left; */
+    /* padding: 12px; */
+    /* color: white; */
+    /* text-decoration: none; */
+    /* font-size: 17px; */
+    /* width: 19%;
+    height: 100%;
+    text-align: center; */
+
+    /* font-family: Druk Text Wide Web;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 28px; */
+    /* identical to box height */
+/* 
+    letter-spacing: -0.05em;
+
+    color: #A2A3E6;
+
+    border: 3.24252px solid #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
+}
+
+.navigation .nav-item .label a {
+    text-decoration: none;
+
+    font-family: 'Druk Text Wide Web';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 28px;
+    /* identical to box height */
+
+    letter-spacing: -0.05em;
+
+    color: white;
+
+    border: 3.24252px solid #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.navigation .nav-item .label a:hover {
+    color: #A2A3E6;
+}
