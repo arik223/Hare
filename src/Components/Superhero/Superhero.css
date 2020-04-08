@@ -1,0 +1,28 @@
+.superhero {
+    position: relative;
+}
+
+.superhero img {
+    width: 100%;
+}
+
+.superhero-label {
+    position: absolute;
+    bottom: 30vw;
+
+    /* width: 790.83px; */
+    /* height: 228px; */
+    left: 8vw;
+    /* top: 400px; */
+
+    font-family: 'DrukWide';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13vw;
+    line-height: 229px;
+
+    /* Colors | Main / White */
+
+    color: #FFFFFF;
+    mix-blend-mode: exclusion;  
+}

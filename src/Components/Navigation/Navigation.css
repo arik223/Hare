@@ -4,8 +4,8 @@
     background-color: black;
     overflow: auto;
 
-    position: fixed;
-    height: 5%;
+    position: relative;
+    height: 40px;
 
     padding-top: 10px;
 
@@ -70,7 +70,7 @@
 .navigation .nav-item .label a {
     text-decoration: none;
 
-    font-family: 'Druk Text Wide Web';
+    font-family: 'DrukWide';
     font-style: normal;
     font-weight: 500;
     font-size: 28px;

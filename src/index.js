@@ -7,6 +7,7 @@ import { Router, BrowserRouter } from "react-router-dom"
 import createHistory from 'history/createBrowserHistory'
 import * as serviceWorker from "./serviceWorker"
 import Main from './Main'
+import './fonts/Druk-Wide-Bold.ttf'
 // const history = useRouterHistory(createHistory)({
 //   basename: process.env.PUBLIC_URL
 // })
