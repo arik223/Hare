@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Hare/static/css/main.f2420b49.chunk.css",
-    "main.js": "/Hare/static/js/main.980c275d.chunk.js",
-    "main.js.map": "/Hare/static/js/main.980c275d.chunk.js.map",
+    "main.js": "/Hare/static/js/main.259aef2f.chunk.js",
+    "main.js.map": "/Hare/static/js/main.259aef2f.chunk.js.map",
     "runtime-main.js": "/Hare/static/js/runtime-main.313e1b4d.js",
     "runtime-main.js.map": "/Hare/static/js/runtime-main.313e1b4d.js.map",
     "static/js/2.2d736bac.chunk.js": "/Hare/static/js/2.2d736bac.chunk.js",
     "static/js/2.2d736bac.chunk.js.map": "/Hare/static/js/2.2d736bac.chunk.js.map",
     "index.html": "/Hare/index.html",
-    "precache-manifest.92a798171c5ad5a2a2cc08fd830e56f1.js": "/Hare/precache-manifest.92a798171c5ad5a2a2cc08fd830e56f1.js",
+    "precache-manifest.140f13432e3a721d71f178bfe926d4ff.js": "/Hare/precache-manifest.140f13432e3a721d71f178bfe926d4ff.js",
     "service-worker.js": "/Hare/service-worker.js",
     "static/css/main.f2420b49.chunk.css.map": "/Hare/static/css/main.f2420b49.chunk.css.map",
     "static/js/2.2d736bac.chunk.js.LICENSE.txt": "/Hare/static/js/2.2d736bac.chunk.js.LICENSE.txt",
@@ -27,13 +27,13 @@
     "static/media/social-twitter.svg": "/Hare/static/media/social-twitter.93ab6c74.svg",
     "static/media/spotify-button.svg": "/Hare/static/media/spotify-button.11abdc47.svg",
     "static/media/spotify.svg": "/Hare/static/media/spotify.d60114e7.svg",
-    "static/media/superhero.svg": "/Hare/static/media/superhero.2f672f46.svg",
+    "static/media/superhero2.svg": "/Hare/static/media/superhero2.c957d14b.svg",
     "static/media/youtube-button.svg": "/Hare/static/media/youtube-button.d15b76b6.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.313e1b4d.js",
     "static/js/2.2d736bac.chunk.js",
     "static/css/main.f2420b49.chunk.css",
-    "static/js/main.980c275d.chunk.js"
+    "static/js/main.259aef2f.chunk.js"
   ]
 }

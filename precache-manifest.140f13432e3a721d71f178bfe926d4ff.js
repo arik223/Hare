@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5eeb6973fd8ca212b5358314fae8f70b",
+    "revision": "a551a05764153f4d0aebd94b34f3ea8a",
     "url": "/Hare/index.html"
   },
   {
-    "revision": "76ec98f94765c1ec971c",
+    "revision": "2dddfa47daca6d13a068",
     "url": "/Hare/static/css/main.f2420b49.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Hare/static/js/2.2d736bac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "76ec98f94765c1ec971c",
-    "url": "/Hare/static/js/main.980c275d.chunk.js"
+    "revision": "2dddfa47daca6d13a068",
+    "url": "/Hare/static/js/main.259aef2f.chunk.js"
   },
   {
     "revision": "c97dc8dc93f3223d03c5",
@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Hare/static/media/spotify.d60114e7.svg"
   },
   {
-    "revision": "2f672f46d131787f417c012f5795b80c",
-    "url": "/Hare/static/media/superhero.2f672f46.svg"
+    "revision": "c957d14bc76983905214915cc722fb01",
+    "url": "/Hare/static/media/superhero2.c957d14b.svg"
   },
   {
     "revision": "d15b76b61294def02e70b00b22432b13",
