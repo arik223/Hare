@@ -1,15 +1,15 @@
 import React from "react"
 import { Link } from "react-router-dom"
-import superhero from './superhero.svg'
+import superhero from './superhero2.svg'
 import './Superhero.css'
 
 const Superhero = () => {
   return (
     <div className='superhero'>
         <div className='superhero-container'>
-            <div className='superhero-label'>
+            {/* <div className='superhero-label'>
                 HARE
-            </div>
+            </div> */}
             <img src={superhero} alt="React Logo" />
         </div>
         {/* <Link to={'/'} >HOME</Link>

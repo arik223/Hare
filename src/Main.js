@@ -2,6 +2,7 @@ import React from 'react';
 // import logo from './logo.svg';
 import './App.css';
 import Navigation from './Components/Navigation/Navigation'
+import Footer from './Components/Footer/Footer'
 // import Routes from './Routes'
 
 function Main(props) {
@@ -14,6 +15,7 @@ function Main(props) {
       <div className='container'>
         {props.children}
       </div>
+      <Footer />
     </div>
   );
 }
